@@ -1,0 +1,16 @@
+# Ignorar la carpeta de dependencias
+node_modules/
+
+# Ignorar archivos de entorno (por ejemplo, claves secretas)
+.env
+
+# Logs
+logs
+*.log
+
+# Sistema operativo (Windows/Mac)
+.DS_Store
+Thumbs.db
+
+# Archivos de npm
+package-lock.json
